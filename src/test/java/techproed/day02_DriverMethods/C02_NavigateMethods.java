@@ -40,7 +40,7 @@ public class C02_NavigateMethods {
         //Sayfayı kapatalım
         driver.close();
 
-
+//degistirdik
 
     }
 }
